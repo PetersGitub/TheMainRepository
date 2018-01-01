@@ -5,5 +5,5 @@ I changed text for the second time
 I changed text for the third time
 Changed text
 
-The branch changed on the server
+The branch is changed on the server
 
