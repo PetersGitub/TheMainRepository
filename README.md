@@ -1,3 +1,3 @@
 # TheMainRepository
-Repository to learn this GIT
+Repository to learn this 2 GIT
 I changed some text
